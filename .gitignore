@@ -1,0 +1,19 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+dist/
+build/
+*.so
+
+# Rye-specific files
+.venv/
+requirements.lock
+requirements-dev.lock
+
+# Egg files
+*.egg-info/
+
+.env
+papers
